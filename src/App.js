@@ -9,7 +9,7 @@ function App(){
           <a href="#home">Home</a>
           <a href="#about">About</a>
           <a href="#course">Course</a>
-          <a href="#contact">Contact</a>
+          <a href="#contact">Contact</a>gi
         </div>
       </nav>
 
